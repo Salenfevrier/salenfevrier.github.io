@@ -1,5 +1,3 @@
-theme: jekyll-theme-minimal
-
 # Mon Portfolio  
 
 Bienvenue sur mon site web ! 🎨✨  
@@ -29,3 +27,5 @@ Ton site sera accessible à l’adresse :
 
 ## 📜 Licence  
 📖 Ce projet est sous licence MIT – libre à utiliser et modifier.
+
+gem "github-pages", group: :jekyll_plugins
