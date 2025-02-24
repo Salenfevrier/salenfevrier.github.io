@@ -1,3 +1,5 @@
+theme: jekyll-theme-minimal
+
 # Mon Portfolio  
 
 Bienvenue sur mon site web ! 🎨✨  
